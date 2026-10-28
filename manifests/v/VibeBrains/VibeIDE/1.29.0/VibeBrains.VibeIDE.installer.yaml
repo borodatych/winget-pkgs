@@ -18,7 +18,7 @@ UpgradeBehavior: install
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/VibeBrains/VibeIDE/releases/download/v1.29.0/VibeIDESetup.exe
-    InstallerSha256: 4EF804D80C0752564EBC122F87EE39624B619DB3438D3420F07EA493019E8E2F
+    InstallerSha256: 2A64B6143DC694C0670958BAB44F47930A114A18A1865DBB1549835FCDF92DFDF
     ProductCode: '{C2A6E4B8-9012-4F5A-9C3D-7E1B0A8F6D42}_is1'
     AppsAndFeaturesEntries:
       - DisplayName: VibeIDE
